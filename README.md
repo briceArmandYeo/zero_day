@@ -1,0 +1,1 @@
+fisrt readme whith ubunu distribution 
